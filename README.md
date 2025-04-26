@@ -1,3 +1,4 @@
+[![PyPI version](https://badge.fury.io/py/idtec-core.svg)](https://badge.fury.io/py/idtec-core)
 
 # IDTec Core 🔐
 
