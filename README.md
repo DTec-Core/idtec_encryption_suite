@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Features
+## 🚀 Features that mandates a peacesful cyber footprint
 - Key Exchange (RLWE)
 - Threefish Encryption and Decryption
 - Post-Quantum Encryption & Digital Signatures
