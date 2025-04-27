@@ -1,0 +1,11 @@
+
+# Ignore distribution files
+dist/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Ignore recovery txt files only
+PyPI-Recovery-Codes-*.txt
+
