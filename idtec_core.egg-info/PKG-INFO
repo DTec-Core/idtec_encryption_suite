@@ -3,8 +3,8 @@ Name: idtec_core
 Version: 1.5.0
 Summary: Post-Quantum Cryptographic Signature & Encryption Module for Python
 Home-page: https://github.com/idtec-secure/idtec_core
-Author: IDTec Quantum Team
-Author-email: contact@idtecsecure.com
+Author: IDTec Quantum Team/Calyx/Veay4
+Author-email: ibornstudio@yahoo.com
 Classifier: Development Status :: 5 - Production/Stable
 Classifier: Intended Audience :: Developers
 Classifier: Topic :: Security :: Cryptography
