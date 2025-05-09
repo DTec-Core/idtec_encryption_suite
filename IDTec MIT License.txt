@@ -1,22 +1,32 @@
-MIT License
+MIT License (Modified for Quantum Encryption Use)
 
-Copyright (c) 2025 DTec
+Copyright (c) 2025 DTec-Core
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the Software, and to permit persons to whom the Software is furnished to do
-so, subject to the following conditions:
+of this software and associated documentation files (the "Software"), to use, copy,
+modify, merge, publish, and distribute the Software, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Redistributions must retain this copyright notice,
+   along with this list of conditions and the following disclaimers.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Reverse Engineering Prohibited:
+   The Software includes encryption mechanisms and agent deployment logic considered
+   proprietary. Reverse engineering, disassembly, decryption attempts, or cryptographic
+   analysis intended to bypass or expose internal structure is prohibited without a
+   separate commercial license.
+
+3. Commercial Use Restriction:
+   Use of the Software in commercial products, services, or enterprise deployments
+   requires a separate written agreement with DTec-Core.
+
+4. Forking for Commercial Repackaging:
+   Public forks or modifications must remain under MIT terms and cannot be sold,
+   licensed, or offered under a different brand or name for commercial benefit.
+
+5. Contribution Clause:
+   All contributions are submitted under a Contributor License Agreement (CLA),
+   granting DTec-Core full rights to integrate, modify, and commercially license
+   contributed code or logic.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
 
