@@ -16,7 +16,7 @@ Description-Content-Type: text/markdown
 Requires-Dist: cryptography>=42.0.0
 Requires-Dist: pycryptodome>=3.19.0
 Requires-Dist: click>=8.1.3
-Dynamic: author
+Dynamic: author: Calyx/Veay4
 Dynamic: author-email
 Dynamic: classifier
 Dynamic: description
@@ -27,21 +27,18 @@ Dynamic: requires-python
 Dynamic: summary
 
 
-# IDTec Core 🔐
+IDTec Core
 
-**IDTec Core** is a Python-based cryptographic toolkit built for post-quantum security using the proprietary **IDTec-1024** algorithm and advanced SHAKE hashing. Designed for enterprises, developers, and researchers working in cybersecurity, defense, finance, and healthcare.
+IDTec Core is a Python-based cryptographic toolkit built for post-quantum security using the proprietary **IDTec-1024** algorithm and advanced SHAKE hashing. Designed for enterprises, developers, and researchers working in cybersecurity, defense, finance, and healthcare.
 
----
 
-## 🚀 Features
+Features
 - Post-Quantum Encryption & Digital Signatures
 - SHAKE-based secure hashing
 - Lightweight CLI tools: `idtec-sign` and `idtec-encrypt`
 - Compatible with GDPR, HIPAA, and NIST frameworks
 
----
+Installation
 
-## 📦 Installation
-
-```bash
+bash
 pip install idtec_core
