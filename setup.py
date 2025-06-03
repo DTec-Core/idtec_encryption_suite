@@ -12,7 +12,6 @@ setup(
     url='https://github.com/idtec-secure/idtec_core',
     packages=find_packages(),
     install_requires=[
-        'cryptography>=42.0.0',
         'pycryptodome>=3.19.0',
         'click>=8.1.3'
     ],
@@ -28,8 +27,7 @@ setup(
     entry_points={
         'console_scripts': [
             'idtec-sign=idtec_core.signer:main',
-            'idtec-encrypt=idtec_core.crypto:encrypt_cli'
-        ]
+            ]
     },
     include_package_data=True,
     zip_safe=False
